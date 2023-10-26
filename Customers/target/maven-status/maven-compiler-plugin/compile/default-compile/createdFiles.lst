@@ -1,0 +1,8 @@
+org\acme\Repository\productRepository.class
+org\acme\ProductResource.class
+org\acme\Exceptions\MyException.class
+org\acme\Products.class
+org\acme\Exceptions\ErrorMessage.class
+META-INF\panache-archive.marker
+org\acme\Exceptions\services\ProductService.class
+org\acme\Exceptions\ExceptionMapper.class
