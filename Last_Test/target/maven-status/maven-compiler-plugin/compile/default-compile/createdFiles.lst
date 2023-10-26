@@ -1,0 +1,6 @@
+org\acme\ExampleResource.class
+org\acme\movieRepository.class
+org\acme\BusinessExceptionMapper.class
+META-INF\panache-archive.marker
+org\acme\BusinessException.class
+org\acme\erroMessage.class
