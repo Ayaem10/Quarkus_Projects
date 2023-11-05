@@ -1,0 +1,8 @@
+org\Auth\AuthResource.class
+org\Auth\Exception\BusinessException.class
+org\Auth\Exception\message.class
+org\Auth\JpaSecurityRealmTest.class
+org\Auth\TokenGenerator.class
+org\Auth\Exception\BusinessExceptionMapper.class
+META-INF\panache-archive.marker
+org\Auth\User.class
