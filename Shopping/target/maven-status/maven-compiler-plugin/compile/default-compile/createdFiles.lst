@@ -1,0 +1,14 @@
+org\acm\ShoppingStore\PayPalPayment.class
+org\acm\Authentication\Exceptions\BusinessException.class
+org\acm\Entities\Item.class
+org\acm\Entities\clients.class
+org\acm\Authentication\Exceptions\Message.class
+org\acm\ShoppingStore\CartRepository.class
+org\acm\ShoppingResource.class
+org\acm\Authentication\AuthFunction.class
+org\acm\ShoppingStore\ShoppingCart.class
+org\acm\ShoppingStore\Order.class
+META-INF\panache-archive.marker
+org\acm\ShoppingStore\PaymentMethod.class
+org\acm\Authentication\AuthRepository.class
+org\acm\Authentication\Exceptions\BusinessExceptionMapper.class
