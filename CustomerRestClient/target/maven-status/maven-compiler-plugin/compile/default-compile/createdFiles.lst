@@ -1,0 +1,4 @@
+org\acme\Model\Products.class
+org\acme\RestClientResource.class
+META-INF\panache-archive.marker
+org\acme\Service.class
